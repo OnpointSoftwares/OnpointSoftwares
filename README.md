@@ -24,7 +24,7 @@ I'm currently working on a Kiswahili to Kikuyu language translation project usin
 - **Data Science**: Data Analysis, Visualization, Statistical Modeling
 
 ## 📫 How to reach me
-- **Email**: vincentbettoh1@gmail.com
+- **Email**: vincentbettoh@gmail.com
 - **LinkedIn**: [Vincent Kipkurui](https://www.linkedin.com/in/vincent-kipkurui-07baa2267)
 - **Twitter**: [@VincentKipkurui](https://twitter.com/VincentKipkurui)
 
