@@ -64,4 +64,4 @@ I'm currently working on a Kiswahili to Kikuyu language translation project usin
 </p>
 
 ## 📊 GitHub Activity
-[![Vincent's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OnpointSoftwares&theme=react-dark)](https://github.com/OnpointSoftwares/github-readme-activity-graph)
+[![Vincent's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OnpointSoftwares&theme=react-dark)](https://github.com/OnpointSoftwares/OnpointSoftwares)
