@@ -25,7 +25,7 @@ I'm currently working on a Kiswahili to Kikuyu language translation project usin
 
 ## 📫 How to reach me
 - **Email**: vincentbettoh1@gmail.com
-- **LinkedIn**: [Vincent Kipkurui](https://www.linkedin.com/in/vincent-kipkurui)
+- **LinkedIn**: [Vincent Kipkurui](https://www.linkedin.com/in/vincent-kipkurui-07baa2267)
 - **Twitter**: [@VincentKipkurui](https://twitter.com/VincentKipkurui)
 
 ## 😂 Here is a random joke that'll make you laugh!
