@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Vincent Kipkurui
 ## 👀 I'm interested in Natural Language Processing, Machine Learning, Web Development, Android Development, and Data Science
 
-I'm currently working on a Kiswahili to Kikuyu language translation project using transformer-based models.
+I'm currently working on a Kiswahili to Kikuyu language translation project using transformer-based models and developing an AI-enabled web IDE.
 
 ![Vincent's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OnpointSoftwares&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OnpointSoftwares&layout=compact&theme=tokyonight)](https://github.com/OnpointSoftwares/github-readme-stats) 
@@ -11,6 +11,7 @@ I'm currently working on a Kiswahili to Kikuyu language translation project usin
 ![](https://komarev.com/ghpvc/?username=OnpointSoftwares&color=green&style=flat-square&label=PROFILE+VIEWS)
 
 ## 🔭 Current Projects
+- **AI-Enabled Web IDE**: Developing an intelligent web-based integrated development environment with AI-powered code assistance, auto-completion, and smart debugging features
 - **Kiswahili to Kikuyu Translation**: Building a machine translation system using PyTorch and Transformers
 - **NLP Research**: Exploring low-resource language translation techniques
 - **Web & Mobile Applications**: Developing solutions with modern frameworks
