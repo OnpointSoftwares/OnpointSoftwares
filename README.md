@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**LIMO2001/LIMO2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**OnpointSoftwares/OnpointSoftwares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,17 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi, I’m LIMO DUKE
+# 👋 Hi, I’m Vincent Kipkurui
 ## 👀 I’m interested in WEB,ANDROID DATA SCIENCE AND AI
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LIMO2001&show_icons=true&theme=radical)
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://LIMO2001-quant-goldman-sachs-forecastingapp-yxn34x.streamlit.app/) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LIMO2001&layout=compact&theme=tokyonight)](https://github.com/LIMO2001/github-readme-stats) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LIMO2001&theme=tokyonight)](https://git.io/streak-stats) ![](https://komarev.com/ghpvc/?username=LIMO2001&color=green&hidden=True&style=flat-square&label=PROFILE+VIEWS) ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tky0vrvb3151zocqr034iz6p2&unique={true|1|on|yes}&count=1&width=600&unique=true)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OnpointSoftwares&show_icons=true&theme=radical)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://LIMO2001-quant-goldman-sachs-forecastingapp-yxn34x.streamlit.app/) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OnpointSoftwares&layout=compact&theme=tokyonight)](https://github.com/OnpointSoftwares/github-readme-stats) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OnpointSoftwares&theme=tokyonight)](https://git.io/streak-stats) ![](https://komarev.com/ghpvc/?username=OnpointSoftwares&color=green&hidden=True&style=flat-square&label=PROFILE+VIEWS) ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tky0vrvb3151zocqr034iz6p2&unique={true|1|on|yes}&count=1&width=600&unique=true)
 
 
 
 
 ## 📫 How to reach me
-Email dukelimo2001@gmail.com
+Email vincentbettoh1@gmail.com
 
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
@@ -34,12 +34,12 @@ Email dukelimo2001@gmail.com
 
   <div style="flex: 50%; padding: 10px;">
     <h2>📊 My GitHub Stats</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=LIMO2001&show_icons=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=OnpointSoftwares&show_icons=true" alt="GitHub Stats" />
   </div>
 
   <div style="flex: 50%; padding: 10px;">
     <h2>📈 Most Used Languages</h2>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LIMO2001&theme=blue-green" alt="Most Used Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnpointSoftwares&theme=blue-green" alt="Most Used Languages" />
   </div>
 
 </div>
