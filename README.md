@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/103517620" width="200" height="200" style="border-radius:50%" alt="Vincent Kipkurui"/>
+</p>
 
 # 👋 Hi, I'm Vincent Kipkurui
 ## 👀 I'm interested in Natural Language Processing, Machine Learning, Web Development, Android Development, and Data Science
