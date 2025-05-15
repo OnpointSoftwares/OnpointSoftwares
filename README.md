@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/OnpointSoftwares/OnpointSoftwares/blob/main/profile.png" width="250" height="400" alt="Vincent Kipkurui"/>
+<img src="https://github.com/OnpointSoftwares/OnpointSoftwares/blob/main/profile.png" width="300" height="400" alt="Vincent Kipkurui"/>
 
 </p>
 
