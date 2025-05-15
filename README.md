@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/103517620" width="200" height="200" style="border-radius:50%" alt="Vincent Kipkurui"/>
+<img src="https://raw.githubusercontent.com/OnpointSoftwares/OnpointSoftwares/main/profilepic.png" width="200" height="200" alt="Vincent Kipkurui"/>
+
 </p>
 
 # 👋 Hi, I'm Vincent Kipkurui
