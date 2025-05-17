@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Vincent Kipkurui
-## 👀 I'm interested in Natural Language Processing, Machine Learning, Web Development, Android Development, and Data Science
+# 👋 Hi, We are Onpoint Softwares
+## 👀 We are interested in Natural Language Processing, Machine Learning, Web Development, Android Development, and Data Science
 
-I'm currently working on a Kiswahili to Kikuyu language translation project using transformer-based models and developing an AI-enabled web IDE.
+We are currently working on a Kiswahili to Kikuyu language translation project using transformer-based models and developing an AI-enabled web IDE.
 
 ![Vincent's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OnpointSoftwares&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OnpointSoftwares&layout=compact&theme=tokyonight)](https://github.com/OnpointSoftwares/github-readme-stats) 
@@ -62,7 +62,7 @@ I'm currently working on a Kiswahili to Kikuyu language translation project usin
 </p>
 
 ## 📊 GitHub Activity
-[![Vincent's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OnpointSoftwares&theme=react-dark)](https://github.com/OnpointSoftwares/OnpointSoftwares)
+[![Onpoint Softwares github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OnpointSoftwares&theme=react-dark)](https://github.com/OnpointSoftwares/OnpointSoftwares)
 
 ## 📚 Recent Repositories
 [![Recent Repositories](https://github-readme-stats.vercel.app/api/repos-per-language/?username=OnpointSoftwares&theme=radical)](https://github.com/OnpointSoftwares)
