@@ -63,3 +63,7 @@ I'm currently working on a Kiswahili to Kikuyu language translation project usin
 
 ## 📊 GitHub Activity
 [![Vincent's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OnpointSoftwares&theme=react-dark)](https://github.com/OnpointSoftwares/OnpointSoftwares)
+
+## 📚 Recent Repositories
+[![Recent Repositories](https://github-readme-stats.vercel.app/api/repos-per-language/?username=OnpointSoftwares&theme=radical)](https://github.com/OnpointSoftwares)
+[![Recent Repositories](https://github-readme-stats.vercel.app/api/most-starred/?username=OnpointSoftwares&theme=radical)](https://github.com/OnpointSoftwares)
