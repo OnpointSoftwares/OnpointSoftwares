@@ -1,8 +1,3 @@
-<p align="center">
-<img src="https://github.com/OnpointSoftwares/OnpointSoftwares/blob/main/profile.png" width="230" height="300" alt="Vincent Kipkurui"/>
-
-</p>
-
 # 👋 Hi, I'm Vincent Kipkurui
 ## 👀 I'm interested in Natural Language Processing, Machine Learning, Web Development, Android Development, and Data Science
 
@@ -22,7 +17,7 @@ I'm currently working on a Kiswahili to Kikuyu language translation project usin
 ## 🌱 Skills
 - **Languages**: Python, JavaScript, Java, C/C++, PHP, HTML/CSS
 - **Frameworks**: PyTorch, Transformers, Django, Flask, React
-- **Tools**: Git, Docker, Jupyter, VS Code
+- **Tools**: Git, Jupyter, VS Code
 - **ML/AI**: Natural Language Processing, Machine Translation, Neural Networks
 - **Data Science**: Data Analysis, Visualization, Statistical Modeling
 
