@@ -12,22 +12,10 @@ We are currently working on a Kiswahili to Kikuyu language translation project u
 - **AI-Enabled Web IDE**: Developing an intelligent web-based integrated development environment with AI-powered code assistance, auto-completion, and smart debugging features
 
 ## 💬 Live Chat
-Try our Kiswahili-Kikuyu translation chat interface! 🚀
-
-[![Try Chat](https://img.shields.io/badge/-Try%20Chat-blue?style=for-the-badge)](https://onpointsoftwares.github.io/OnpointSoftwares/chat.html)
-
-To use the chat:
-1. Click the "Try Chat" button above
-2. Type your message in Kiswahili
-3. Get responses in Kikuyu
-
-The chat supports:
-- Greetings (e.g., "Habari", "Mambo")
-- Farewells (e.g., "Kwaheri", "Kwa heri")
-- Basic translations
-
-Note: This chat interface is hosted separately from the README.
-
+| Feature        | Status |
+| -------------- | ------ |
+| AI IDE         | ✅      |
+| Kiswahili-Kikuyu Translator | 🛠️      |
 ## 🌱 Skills
 - **Kiswahili to Kikuyu Translation**: Building a machine translation system using PyTorch and Transformers
 - **NLP Research**: Exploring low-resource language translation techniques
