@@ -10,13 +10,6 @@ We are currently working on a Kiswahili to Kikuyu language translation project u
 
 ## 🔭 Current Projects
 - **AI-Enabled Web IDE**: Developing an intelligent web-based integrated development environment with AI-powered code assistance, auto-completion, and smart debugging features
-
-## 💬 Live Chat
-| Feature        | Status |
-| -------------- | ------ |
-| AI IDE         | ✅      |
-| Kiswahili-Kikuyu Translator | 🛠️      |
-## 🌱 Skills
 - **Kiswahili to Kikuyu Translation**: Building a machine translation system using PyTorch and Transformers
 - **NLP Research**: Exploring low-resource language translation techniques
 - **Web & Mobile Applications**: Developing solutions with modern frameworks
